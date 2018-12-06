@@ -5,7 +5,7 @@ Team Members:
 
 Esteban Alcaraz		Section: 1
 Nicolette Dixon		Section: 4
-Dana Lu				Section: 11
+Dana Lu			Section: 11
 Abdourahman Sarr	Section: 3
 
 
