@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: Testing SFML, Configuration: Debug Win32 ------
+1>  Skittle.cpp
+1>c:\users\dlu20\documents\cpts 122\practice\testing sfml\testing sfml\skittle.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\dlu20\documents\cpts 122\practice\testing sfml\testing sfml\skittle.cpp(53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+1>c:\users\dlu20\documents\cpts 122\practice\testing sfml\testing sfml\skittle.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>  Testing SFML.vcxproj -> C:\Users\Dlu20\Documents\CptS 122\Practice\Testing SFML\Debug\Testing SFML.exe
+1>  Testing SFML.vcxproj -> C:\Users\Dlu20\Documents\CptS 122\Practice\Testing SFML\Debug\Testing SFML.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
