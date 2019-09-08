@@ -1,14 +1,6 @@
 
 Falling Skittles Game!
 
-Team Members:
-
-Esteban Alcaraz		Section: 1
-Nicolette Dixon		Section: 4
-Dana Lu			Section: 11
-Abdourahman Sarr	Section: 3
-
-
 GAME INSTRUCTIONS
 
 In this game, colored Skittle candies and vegetable broccoli rain down from the top of the screen. The objective of 
