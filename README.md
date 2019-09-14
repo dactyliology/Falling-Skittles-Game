@@ -1,7 +1,12 @@
 # Falling-Skittles-Game
 
-**Instructions**
+## Demo
+https://drive.google.com/file/d/1OzfaT4nSoA2CbCRQpVVVAxHGsCkLPt8P/view?usp=sharing
 
+## Setup
+Setup instructions coming soon!
+
+## Game Instructions
 In this game, colored Skittle candies and vegetable broccoli rain down from the top of the screen. The objective of 
 the game is to collect as many skittles as you can (but avoiding the broccoli) by using the left and right arrow keys
 to move the orange bucket. 
@@ -22,14 +27,11 @@ At the end of the game, the player's time alive and score are displayed to the s
 
 Good luck and have fun! :)
 
-
 **Notes**
-
 * If a falling object (skittle or vegetable) touches the SIDE of a bucket, it will be collected.
 
 
-**Future Directions**
-
+## Futures
 * Custom text class
 * Leaderboard function (maybe online w/ networking?)
 * More readable functional decomposition (higher cohesion, lower coupling)
