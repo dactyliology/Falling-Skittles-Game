@@ -1,2 +1,4 @@
-﻿  Testing SFML.vcxproj -> C:\Users\Dlu20\Documents\CptS 122\Practice\Testing SFML\Debug\Testing SFML.exe
-  Testing SFML.vcxproj -> C:\Users\Dlu20\Documents\CptS 122\Practice\Testing SFML\Debug\Testing SFML.pdb (Full PDB)
+﻿  main.cpp
+c:\projects\c++\falling-skittles-game\testing sfml\testing sfml\skittle.h(11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\projects\c++\falling-skittles-game\testing sfml\testing sfml\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Testing SFML.vcxproj -> C:\Projects\C++\Falling-Skittles-Game\Testing SFML\Debug\Testing SFML.exe
